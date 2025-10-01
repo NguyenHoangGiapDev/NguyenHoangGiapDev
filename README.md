@@ -9,4 +9,4 @@
 ---
 
 ### 🔥 Popular repositories
-- NguyenHoangGiapDev](https://github.com/NguyenHoangGiapDev)
+- [NguyenHoangGiapDev](https://github.com/NguyenHoangGiapDev)
